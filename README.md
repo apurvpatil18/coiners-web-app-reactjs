@@ -1,6 +1,11 @@
+# Main Page : 
 ![image](https://user-images.githubusercontent.com/98873382/236741031-d3d4717c-2fac-47a4-a175-bfaa87ef278c.png)
 
+# Search bar :
+![image](https://user-images.githubusercontent.com/98873382/236741308-7da1eec7-41f7-4583-b3fc-7e79e7158867.png)
 
+# View : 
+![image](https://user-images.githubusercontent.com/98873382/236741392-1a3512af-b02f-4996-b026-6306735d0612.png)
 
 
 # Getting Started with Create React App
