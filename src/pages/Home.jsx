@@ -17,7 +17,7 @@ export default function Home() {
       <Header />
       <header className="home-search">
         <div className="width">
-          <h2>Search for a coin</h2>
+          <h2>Search for a Coins !</h2>
           <div
             className={classNames("home-search-input", {
               searching: store.searching,

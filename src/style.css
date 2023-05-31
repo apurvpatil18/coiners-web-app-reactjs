@@ -63,10 +63,11 @@ img {
 }
 
 .header svg {
+  background-color: lightblue;
   position: absolute;
-  top: 50px;
-  left: 0;
-  margin-top: -12px;
+  top: 18px;
+  left: 31px;
+  margin-top: -15px;
 }
 
 .home-search {

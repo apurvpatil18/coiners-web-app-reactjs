@@ -11,7 +11,7 @@ const homeStore = create((set) => ({
 
   setQuery: (e) => {
     set({ query: e.target.value });
-    homeStore.getState().searchCoins(); 
+    homeStore.getState().searchCoins();
   },
 
   searchCoins: debounce(async () => {
