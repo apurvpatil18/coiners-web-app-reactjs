@@ -1,5 +1,5 @@
 #COINERS 
-    * STILL Under DEVELOPMENT *
+*Still Under DEVELOPMENT *
 
 # Getting Started with Create React App
 
