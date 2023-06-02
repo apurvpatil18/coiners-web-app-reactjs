@@ -24,6 +24,8 @@ export default function Home() {
             })}
           >
             <input type="text" value={store.query} onChange={store.setQuery} />
+
+            {/* for the loading svcreen  */}
             <svg width="40px" height="40px" viewBox="0 0 50 50">
               <path
                 fill="#1abc9c"
