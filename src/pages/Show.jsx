@@ -143,7 +143,7 @@ export default function Show() {
               <div className="show-details-row">
                 <h3> Current Price </h3>
                 <span>${store.data.market_data.current_price.usd} </span>
-                <span>₹{store.data.market_data.current_price.inr} </span>
+                {/* <span>₹{store.data.market_data.current_price.inr} </span> */}
               </div>
               <div className="show-details-row">
                 <h3> 1y Change </h3>

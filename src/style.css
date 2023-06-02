@@ -126,7 +126,7 @@ img {
   gap: 15px;
   align-items: center;
   padding: 10px 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
 }
 
 .home-crypto span {
@@ -215,4 +215,9 @@ img {
 .show-details-row h3 {
   font-size: 16px;
   color: #111;
+}
+
+.show-details-row span {
+  display: flex;
+  flex-direction: column;
 }
